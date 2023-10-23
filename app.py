@@ -1,1 +1,2 @@
-from ultralytics import YOLO
+import ultralytics as u
+u.YOLO()
